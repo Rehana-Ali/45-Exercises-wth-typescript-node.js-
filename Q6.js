@@ -1,0 +1,10 @@
+"use strict";
+// console.log("Rehana\tAli");
+Object.defineProperty(exports, "__esModule", { value: true });
+// console.log("Rehana\nAli");
+let fName1 = "Rehana\tAli";
+let fName2 = "Rehana\nAli";
+console.log(fName1);
+console.log(fName2);
+let my_Intro = "My name is \t Rehana Ali. \n and i am a student of Governor Sindh It Initiative";
+console.log(my_Intro);
