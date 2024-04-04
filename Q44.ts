@@ -1,4 +1,4 @@
-function sandwich(...items: string[]): void {
+function sandwich(items: string[]): void {
     console.log("\nsandwich order with:")
 
     items.forEach(element => console.log("-" + element));
