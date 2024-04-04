@@ -10,7 +10,7 @@ function createCar(manufacture: string, model: string, optional: Record<string, 
   return{
     manufacture,
     model,
-    ...optional
+    optional
   }
 }
 
